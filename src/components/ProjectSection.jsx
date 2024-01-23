@@ -11,7 +11,7 @@ function ProjectSection() {
     {
       name: "Wheelchair Basketball Association",
       description:
-        "The website of the Wheelchair Basketball Association (WBA) of Singapore features a user-friendly layout and a clean, intuitive design. It utilizes a low-code or no-code platform, integrating smoothly within the Google ecosystem. This approach promotes ease of maintenance and updates, allowing for streamlined content management. The architecture of the site likely supports scalability and adaptability, essential for evolving organizational needs. ",
+        "As the lead developer and President, I spearheaded the creation of the Wheelchair Basketball Association's website, a dynamic and comprehensive online resource showcasing the vibrant world of wheelchair basketball in Singapore. My role involved extensive planning and execution, ensuring the website serves as an engaging platform for athletes, volunteers, and the general public. My leadership role encompassed overseeing all operational facets of the WBA, including event coordination, partnership development with corporates and government entities, and public relations. This position allowed me to demonstrate my skills in strategic planning, stakeholder management, and community outreach. Moreover, I led the initiative to integrate the association with Google Workspace, streamlining our communication and collaborative efforts. As a key content creator for the WBA's social media channels, I also directed the production of engaging digital content, enhancing our online presence and effectively conveying the spirit and values of the wheelchair basketball community.",
       image: imageWBA,
     },
     {
