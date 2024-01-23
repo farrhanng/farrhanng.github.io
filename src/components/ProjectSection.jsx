@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Button, Typography } from "@mui/material";
+import { Box, Button, Typography, Link } from "@mui/material";
 import { useTheme } from "@mui/material/styles";
 import useMediaQuery from "@mui/material/useMediaQuery";
 
@@ -62,22 +62,21 @@ function ProjectSection() {
         }}
       >
         {/* Image */}
-        <Box
-          sx={{
-            width: "100%",
-            height: "100%",
-            paddingBottom: "75%",
-            position: "relative",
-            backgroundImage: `url(${image})`,
-            backgroundSize: "cover",
-            backgroundPosition: "top",
-            borderRadius: 1,
-            mb: 1,
-          }}
-        >
-          {/* Placeholder Image */}
-        </Box>
-
+          <Box
+            onClick={() => window.open('https://www.wba.org.sg/', '_blank')}
+            sx={{
+              width: "100%",
+              height: "100%",
+              paddingBottom: "75%",
+              position: "relative",
+              backgroundImage: `url(${image})`,
+              backgroundSize: "cover",
+              backgroundPosition: "top",
+              borderRadius: 1,
+              mb: 1,
+              cursor: "pointer"
+            }}
+          ></Box>
         {/* Button */}
         <Box sx={{ display: "flex", justifyContent: "center" }}>
           <Button

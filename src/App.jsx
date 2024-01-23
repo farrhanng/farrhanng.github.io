@@ -183,19 +183,19 @@ function App() {
           alignItems: "center",
         }}
       >
-        <a href="mailto:work.farrhan@gmail.com">
+        <a href="mailto:work.farrhan@gmail.com" >
           <EmailIcon style={{ color: "white" }} />
         </a>
-        <a href="https://www.facebook.com/farrhan">
+        <a href="https://www.facebook.com/farrhan" target="_blank">
           <FacebookIcon style={{ color: "white" }} />
         </a>
-        <a href="https://github.com/farrhanng">
+        <a href="https://github.com/farrhanng" target="_blank">
           <GitHubIcon style={{ color: "white" }} />
         </a>
-        <a href="https://www.linkedin.com/in/farrhan/">
+        <a href="https://www.linkedin.com/in/farrhan/" target="_blank">
           <LinkedInIcon style={{ color: "white" }} />
         </a>
-        <a href="https://wa.me/+6596566390">
+        <a href="https://wa.me/+6596566390" target="_blank">
           <WhatsAppIcon style={{ color: "white" }} />
         </a>
       </Box>

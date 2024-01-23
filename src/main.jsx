@@ -7,7 +7,7 @@ import { createTheme, ThemeProvider } from "@mui/material/styles";
 
 const theme = createTheme({
   typography: {
-    fontFamily: ["Helvetica", "sans-serif"].join(","),
+    fontFamily: ["Open Sans", "sans-serif"].join(","),
   },
 });
 
